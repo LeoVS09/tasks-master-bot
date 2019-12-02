@@ -21,10 +21,10 @@ What bot can:
 - Complete todo - write "*Done* existing todo text"
 `
 
+
 const helloMessage = `
-Hi!
-There simple Todo X bot,
-Bot fully Open Source, you can find code on [github](https://github.com/LeoVS09/serverless-aws-node-typescript-dynamodb-telegram-bot-bootstrap)
+Hi! I'm TasksMaster, and I will help you store your tasks.
+Bot fully Open Source, you can find code on [github](https://github.com/LeoVS09/tasks-master-bot)
 ${helpMessage}
 `
 
