@@ -1,5 +1,5 @@
-# Serverless AWS Node DynamoDB Telegram Bot Bootstrap
-This is simple setup todo bot which you can find as [TodoXBot](http://t.me/TodoXbot) in telegram.
+# TasksMaster Bot
+TasksMaster bot - simple serverless bot which you can use as template for you own bot
 
 He contains base setup of enviroment and tools to start develop telegram bot on lambda functions with DynamoDB from zero (minimal) configuration
 
